@@ -2,7 +2,7 @@
 That's a simple web app to create and delete simple toDo tasks;
 The project is not complete and have some bugs (especially in front-end);
 This project is divided into two repositorys, this one for the back-end and one for the front-end;
-The repository for the front-end can be found in this link [](https://github.com/DevMoitinho/toDoListFront).
+The repository for the front-end can be found in this [link](https://github.com/DevMoitinho/toDoListFront).
 
 The webpage is in this link []().
 
