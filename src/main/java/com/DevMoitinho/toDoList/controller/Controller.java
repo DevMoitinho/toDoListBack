@@ -18,6 +18,11 @@ public class Controller{
     @PostMapping
     public Task addTask(@RequestBody Task task){
         task.setId(nextId++);
+        for(Task t: tasks){
+            if(task.equals(t)){
+                return null;
+            }
+        }
         tasks.add(task);
         return task;
     }
